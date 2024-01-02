@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from dotenv import Env
+from environs import Env
 
 
 @dataclass
